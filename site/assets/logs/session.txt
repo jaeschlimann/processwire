@@ -1,0 +1,1 @@
+2024-09-10 12:04:55	admin	http://localhost:8888/processwire/processwire/login/	Successful login for 'admin'

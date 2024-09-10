@@ -1,0 +1,4 @@
+2024-09-10 12:04:17	guest	http://localhost:8888/processwire/http404/	Installed module 'ProcessRecentPages'
+2024-09-10 12:04:18	guest	http://localhost:8888/processwire/http404/	Installed module 'AdminThemeUikit'
+2024-09-10 12:04:22	guest	http://localhost:8888/processwire/processwire/login/	Installed module 'ProcessLogger'
+2024-09-10 12:04:22	guest	http://localhost:8888/processwire/processwire/login/	Installed module 'InputfieldIcon'
